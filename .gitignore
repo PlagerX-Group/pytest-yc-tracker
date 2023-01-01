@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.idea/
 .Python
 build/
 develop-eggs/
@@ -127,3 +128,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Other files
+debugger.py
+setup.sh
+tests_for_tests/
+pytest-bugtracker-test.ini
+
+# Trash
+.DS_Store

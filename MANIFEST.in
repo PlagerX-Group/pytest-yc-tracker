@@ -1,0 +1,7 @@
+include bugtracker
+exclude .gitignore
+exclude .pre-commit-config.yaml
+exclude pyproject.toml
+exclude pytest-bugtracker.ini
+exclude dist
+prune .github
