@@ -134,6 +134,7 @@ debugger.py
 setup.sh
 tests_for_tests/
 pytest-bugtracker-test.ini
+bugtracker/_version.py
 
 # Trash
 .DS_Store

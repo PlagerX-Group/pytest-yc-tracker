@@ -6,9 +6,9 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "pytest-yc-bugtracker"
 dynamic = ["version"]
-description = "Yandex BugTracker plugin for pytest"
-readme = "README.rst"
+readme = "README.md"
 requires-python = ">=3.9.6"
+description = "Yandex BugTracker plugin for pytest"
 license = {file = "LICENSE.rst"}
 authors = [{ name = 'Kirill Matveev', email = 'matveevkirill@internet.ru' }]
 maintainers = [{ name = 'Kirill Matveev', email = 'matveevkirill@internet.ru' }]
